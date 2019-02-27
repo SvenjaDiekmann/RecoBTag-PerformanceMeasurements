@@ -1906,6 +1906,13 @@ groupSet = cms.PSet(
         "FatJetInfo.nSVDeepBoostedJet",
         "FatJetInfo.Jet_DeepBoostedJet_nFirstSVTagVar",
         "FatJetInfo.Jet_DeepBoostedJet_nLastSVTagVar",
+        "nGenquark",
+        "Genquark_pT",
+        "Genquark_eta",
+        "Genquark_phi",
+        "Genquark_pdgID",
+        "Genquark_mother",
+        
 
         
       ),
